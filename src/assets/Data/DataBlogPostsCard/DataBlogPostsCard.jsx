@@ -1,8 +1,8 @@
 import { FiArrowUpRight } from 'react-icons/fi';
-
+import img1 from "../../../../src/assets/images/Image1.png"
 const DataBlogPostsCard = [
     {
-        img : "./src/assets/images/Image1.png" , 
+        img : img1 , 
         alt : "Image1", 
         NameAndDateOfBirth : "Alec Whitten • 1 Jan 2023" ,
         title : "Bill Walsh leadership lessons", 
