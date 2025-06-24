@@ -1,5 +1,10 @@
 import { FiArrowUpRight } from 'react-icons/fi';
 import img1 from "../../../../src/assets/images/Image1.png"
+import img2 from "../../../../src/assets/images/Image2.png"
+import img3 from "../../../../src/assets/images/Image3.png"
+import img4 from "../../../../src/assets/images/Image4.png"
+import img5 from "../../../../src/assets/images/Image5.png"
+import img6 from "../../../../src/assets/images/Image6.png"
 const DataBlogPostsCard = [
     {
         img : img1 , 
@@ -10,7 +15,7 @@ const DataBlogPostsCard = [
         descrption : "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
     },
     {
-        img : "./src/assets/images/Image2.png" , 
+        img : img2 , 
         alt : "Image2", 
         NameAndDateOfBirth : "Demi WIlkinson • 1 Jan 2023" ,
         title : "PM mental models", 
@@ -18,7 +23,7 @@ const DataBlogPostsCard = [
         descrption : "Mental models are simple expressions of complex processes or relationships."
     },
     {
-        img : "./src/assets/images/Image3.png" , 
+        img : img3 , 
         alt : "Image3", 
         NameAndDateOfBirth : "Candice Wu • 1 Jan 2023" ,
         title : "What is Wireframing?", 
@@ -26,7 +31,7 @@ const DataBlogPostsCard = [
         descrption : "Introduction to Wireframing and its Principles. Learn from the best in the industry."
     },
     {
-        img : "./src/assets/images/Image4.png" , 
+        img : img4, 
         alt : "Image4", 
         NameAndDateOfBirth : "Natali Craig • 1 Jan 2023" ,
         title : "How collaboration makes us better designers", 
@@ -34,7 +39,7 @@ const DataBlogPostsCard = [
         descrption : "Collaboration can make our teams stronger, and our individual designs better."
     },
     {
-        img : "./src/assets/images/Image5.png" , 
+        img : img5 , 
         alt : "Image5", 
         NameAndDateOfBirth : "Drew Cano • 1 Jan 2023" ,
         title : "Our top 10 Javascript frameworks to use", 
@@ -42,7 +47,7 @@ const DataBlogPostsCard = [
         descrption : "JavaScript frameworks make development easy with extensive features and functionalities."
     },
     {
-        img : "./src/assets/images/Image6.png" , 
+        img : img6 , 
         alt : "Image6", 
         NameAndDateOfBirth : "Orlando Diggs • 1 Jan 2023" ,
         title : "Podcast: Creating a better CX Community", 
